@@ -27,13 +27,13 @@ End-to-end product analytics project analyzing **903,653 web sessions** and **71
 **[Live Looker Studio Dashboard](https://datastudio.google.com/reporting/739705d3-2e06-4ec9-a712-023369b7b867)**
 
 ### Page 1 — Funnel Overview
-![Funnel Overview](screenshots/page1_funnel_overview.png)
+<img width="1198" height="900" alt="image" src="https://github.com/user-attachments/assets/0f17178a-4ab8-431e-b7b3-dec105ecbed2" />
 
 ### Page 2 — Device & Geography Performance
-![Device & Geography](screenshots/page2_device_geography.png)
+<img width="1201" height="897" alt="image" src="https://github.com/user-attachments/assets/190bb316-fcb4-4da6-aa39-19ae270b9569" />
 
 ### Page 3 — Time & Behavioral Trends
-![Time Trends](screenshots/page3_time_trends.png)
+<img width="1198" height="895" alt="image" src="https://github.com/user-attachments/assets/d112410a-09d7-4f72-ba02-c1cfe3a3cdd3" />
 
 ## Analysis Breakdown
 
